@@ -7,7 +7,9 @@
         "R3.Unity",
         "R3Sample"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
