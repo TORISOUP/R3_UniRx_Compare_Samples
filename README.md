@@ -7,6 +7,10 @@
 `Assets/Samples`以下のコードはCC0です。
 自由に改変するなりして使ってください。ただし発生したトラブル等の責任は負いません。
 
+# セットアップ
+
+1. 最初にUnityEditor上のメニューの[Nuget]->[Restore Packages]を押してください。
+2. [Microsoft.Extensions.TimeProvider.Testing 8.2.0](https://www.nuget.org/packages/Microsoft.Extensions.TimeProvider.Testing/8.2.0)を直接ダウンロードし、手動で`.NETFramework 4.6.2`向けのDLLをプロジェクトに導入してください
 
 # 権利表記
 
